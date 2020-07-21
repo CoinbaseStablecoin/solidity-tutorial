@@ -21,16 +21,16 @@
   },
   "homepage": "https://github.com/CoinbaseStablecoin/solidity-tutorial#readme",
   "dependencies": {
-    "ethers": "^5.0.2"
+    "ethers": "^5.0.7"
   },
   "devDependencies": {
-    "@openzeppelin/contracts": "^3.0.2",
-    "@truffle/hdwallet-provider": "^1.0.35",
+    "@openzeppelin/contracts": "^3.1.0",
+    "@truffle/hdwallet-provider": "^1.0.39",
     "chai": "^4.2.0",
-    "eslint": "^7.2.0",
+    "eslint": "^7.5.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-config-standard": "^14.1.1",
-    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.1.3",
     "eslint-plugin-promise": "^4.2.1",
@@ -38,9 +38,9 @@
     "ganache-cli": "^6.9.1",
     "prettier": "^2.0.5",
     "prettier-plugin-solidity": "^1.0.0-alpha.54",
-    "solc": "0.6.10",
-    "solhint": "^3.0.0",
-    "truffle": "^5.1.29"
+    "solc": "0.6.11",
+    "solhint": "^3.1.0",
+    "truffle": "^5.1.35"
   },
   "engines": {
     "node": ">= 12.0.0"
